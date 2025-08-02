@@ -1,0 +1,895 @@
+{
+  articles: [
+    {
+      title: "Trump raises tariffs on more than 90 countries as Canada's Carney 'disappointed' by 35% levy",
+      link: 'https://news.google.com/read/CBMiVEFVX3lxTFBOb0dFdVFUSGc1SnRWMUs4c3dPSW9lSllOWmJ5WkxBYWN4TzNGRmFGTEF6bC13MFVEQUFremx1WkFqY0FGaks5Q092aVNGTW56VXpXeQ?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iI0NnNXZObWR1UXpjeFlteFhhWFJyVFJDZkF4ampCU2dLTWdB=-w400-h224-p-df-rw',
+      source: 'BBC',
+      datetime: '2025-08-01T09:56:15.000Z',
+      time: '46 minutes ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump tariffs live: stock markets fall after US announces new rates on 92 countries',
+      link: 'https://news.google.com/read/CBMixAFBVV95cUxPaDE0TVpzandSYkNFbmZDQUF6S1dPNTYyZzJibS1wbG92N2o4UjZKZGdQZHl6cGxCWXVKeEhmckxINkVFQzdYOUNOX3paUTRoT2pYaFkxQ1NBbkJTOS12cXpldG5jcGJvTzBXVWhEQmV4VF85REw2YU95TmpZV0VQLVVOcUFzQVJ6RzVLTzRvNlVwQWxYTHlzb2U1aENzTG9QRnZhenFUZEdTVjA5VFhmeWpfeXdKSFc1aE9xaDBDRVNlVUZw?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iI0NnNVJiVkpUVkdSamJqWkpTWFZxVFJEMEFoalJBeWdLTWdB=-w400-h224-p-df-rw',
+      source: 'The Guardian',
+      datetime: '2025-08-01T09:12:00.000Z',
+      time: '1 hour ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Donald Trump’s tariffs send global stocks lower as markets weigh impact',
+      link: 'https://news.google.com/read/CBMicEFVX3lxTE1uWGpad1ZQWk5aMTgwVlBZNXpRdzVyeFJjajBnSzlEMGM3dkpvQUpLVDFVYmp5R3FOMlFlcThRbzQ1RXhQZ1FMZEFTV3lCZ1VmbUtXcnRHd2VTRkNrdERCVG9YeEFWcXpoTTYzVjlkWmY?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNUpObnAyV2xwRWRXRk1XVEZyVFJDS0F4aThCU2dLTWdheDBvWlFSUVE=-w400-h224-p-df-rw',
+      source: 'Financial Times',
+      datetime: '2025-08-01T10:18:48.000Z',
+      time: '23 minutes ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump tariffs latest: stock markets sink as US unleashes new global levies',
+      link: 'https://news.google.com/read/CBMirAFBVV95cUxQelRRdHUwcUJ3OWJTbTdRZnVuSkJHNkxtZTBkMlo1SzdrbnBPZjZldE92MVNaN0x6V1h0RUFEZUpJTzNjcWlfUTVvQ3ZqX3p1UW5TOW9BRnhlUHR2bHY3cGNCTjJBM29TRDQ2RkZRclpuelI3NEVCLW40VnhwMmVPSjVzVlYtNC01enNXelRwT085R1Z0d0pjVnFDUXVLb2xKOVltYlhmRjFCcGZB?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNUVkaTAxUkU4MlFrWm9OVTlpVFJDUkF4aUFCU2dLTWdhZFJaWUxvZ2c=-w400-h224-p-df-rw',
+      source: 'The Telegraph',
+      datetime: '2025-08-01T09:57:40.000Z',
+      time: '45 minutes ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Business news live: House prices rose in July, FTSE 100 falls as tariffs announced',
+      link: 'https://news.google.com/read/CBMirwFBVV95cUxNMXdLX0kyZ3RiSEhBRkRlbmNlcWY0STRlMllpempvc1JodS1xNlMxNFR4NFk2MVRLd0JabzdXYnctVUZDWTd6MnVqa3dFNk1COU81dm1SLUxuQ29WTmNCM21sTE51c1pjbk1zWWtzaWlZRDhrRmFDbWVoT1lXZDY5Y2hBUjA4RUE2NWR3Q2FuNVIyTFl4ejBVem1SS3NjSXg3bGMzVTFPQzNrT1VURGxZ?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iL0NnNXBVRXRtU0dKRVpERjNRbmhOVFJERUF4aW1CU2dLTWdrQlFZeEJvMnFhU3dJ=-w400-h224-p-df-rw',
+      source: 'The Independent',
+      datetime: '2025-08-01T09:53:48.000Z',
+      time: '48 minutes ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'US trade war: The state of play as Trump signs order imposing new tariffs - but there are more delays',
+      link: 'https://news.google.com/read/CBMizwFBVV95cUxOSzFuZGNYWXFGa284dGd4M2JpZHlrVFB6dC1QLTd0a3g0NF9WaTNKVGdmcU8yNlZQQ2k1Y1JBaXlzZV9sUGFIRVk1ZmpnVkV0TXphOVpFSTgzWHhiUVZGWmxWRXZnbUk5NXRVOXNjcV9GRWd0b0V0eWI2THI5XzFTT0dIVDViUEhCdFI4ZjZoODAzUEpfNGlOZ0xURjFmaW9CSUctM0hwNVdGdzZHRHU3aG0zbnQ3VVkxV0I3a0trNms2ZGRGZmNHYl9KV1hGR00?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNXJkVE10VjJkemVGSlFVV2xqVFJDZkF4ampCU2dLTWdZWmRvcEpyZ1k=-w400-h224-p-df-rw',
+      source: 'Sky News',
+      datetime: '2025-08-01T06:44:03.000Z',
+      time: '3 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump sets new tariffs on dozens of countries’ exports',
+      link: 'https://news.google.com/read/CBMimAFBVV95cUxNZkZFS2xaTDZncE5wbmlIUmVnMkIzV3RPU20xSGdDR3JTT19OeVlpY1U4cks4MG9ybkxlYkY5N2ZGRUlMSFFDWTZlUHpKb1YzX0dncUtxa2V1cUI5bWxrYnFiSXdrTTdLcTcwZWFqMlo4Q3NzU2hsYlA0ZkVhUHNWNWQwSGlURDJ0MnZIaEVyRDZWRm5QQzMzaNIBngFBVV95cUxQMWVxV0FKLW16YWNBdFlRVzg0X2x0M2ZvNUNXYy1TdENLXy01N09iMDY4VHNXdTF5ZTBjbHlRUXRReDNBSnJOT2hwcjNsd0hpN191SUM0bFltcnltdU1TQ0hhY2VMNXRMRzZudmx0OHNDWHdNRlZkTVdIVUtfMTluTVVocS04YTVkM1V4YVdQUk5pQ1ZYSXRIVGprSE9Wdw?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNTFURGxsZDFCb05sRkhPV1poVFJEZ0F4aUFCU2dLTWdhQllKTHNvUWc=-w400-h224-p-df-rw',
+      source: 'Al Jazeera',
+      datetime: '2025-08-01T05:32:51.000Z',
+      time: '5 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'US Household Bills To Increase By $2,400 Annually Due To Trump Tariffs: Report',
+      link: 'https://news.google.com/read/CBMitgFBVV95cUxQYTlzaGhEUzZsZXFWQy05QnVTcEVJRVh3VVAxTjZ5ckRpdWZ6TXZSYXpUUS13bVYtd1JWLTZJTDJWXzFybGdSNDB6ZGVubTg1clVaeXF2U2FsdUpFczFMQ3FOV3R5ZXhnWTdZVHNWNTJwT1p4OXBYeVc5NWtvZVdRRGJIRHNJUkFZVGlZd2Z1d2FoZThDX0RzVHBJREVOQTlWempKallxMTZiWUx3ZlZTSjcyRzQzUdIBvgFBVV95cUxPM3c0SjVyTW03M0xka2ZpQ0ltcjE3Z1RBeDZvak45YUpDLXNtYWY2NExaU1FwdUNCMW1heW9ZSlg2WG53aThTMjc5M1VqaTZxblAyQ0RidWtoX1Fud0kwTWhrYjR5dW5ubDFHQkRpSi1WUXgzUUhCTzBsZEVuem1PcFlHaHJIMnBpMHBEbU42Yk9lc0hZTW16QzU3M2JkQnRjT2FjQ2RDYjFtbUEtVlprTGxHc0tLT01Gb1RacmF3?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNTNSbkpWTlU5UlRFWnpibTVtVFJDeUF4akNCU2dLTWdZbFpZTE5MUVk=-w400-h224-p-df-rw',
+      source: 'NDTV',
+      datetime: '2025-08-01T07:44:06.000Z',
+      time: '2 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Mark Carney was asking for Trump to impose tariffs',
+      link: 'https://news.google.com/read/CBMikAFBVV95cUxOZTJmQW5kUElTUXFmdG42WWpfRjJHaTY0bmZGSWF0YUVrOGdKUnM5UTNyd2gwWTVoZUJQRUI1LVhZUXRCUnZ0ZzdJRXRHUFlUcUcyaDRzT2ZvZVkxeWg4ck5lWUpJZVdaVUVHblY0QkI0aDl0MVVOTU0yellWV1hFTTQ4N2RjYXFsUDZFV0dBZ00?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNDRVMHAzVUVsZlVsOTJTSGhRVFJERUF4aW5CU2dLTWdZbHhZTHN3UVE=-w400-h224-p-df-rw',
+      source: 'The Spectator',
+      datetime: '2025-08-01T06:15:31.000Z',
+      time: '4 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Full List of US Tariff Rates Announced by Trump on Trading Partners',
+      link: 'https://news.google.com/read/CBMiqwFBVV95cUxNTXhOcnd2RC1kbk9BY3ZZVHdvRVdIZkM4d0FLZmtpdldzSXdOcFJBdHRMaFMwTWhRMGVaR3FaWmJzZ3FRN0VyQ2Ezdl9HcmpuYmdoekZsOENjRFAxR1pCTEVqV1FiUFZ2cjl5VnhZUXFnYWZlRUloUXB1R2t5WFJ0WUl1Y1VHWlBjZXlkSGVCc3MxWklvUU1yckdzb1M4ZVJ2d1c2ZXRuUW1sc2M?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iMkNnNURYeTFyWkRGRU5UWkRiMWRYVFJERUF4aW1CU2dLTWd1Qk1vcWtKZVZVU0FwNFl3=-w400-h224-p-df-rw',
+      source: 'Bloomberg',
+      datetime: '2025-08-01T03:12:00.000Z',
+      time: '7 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump tariffs live updates: Canada hit with punishing 35% levy as 92 countries face new rates',
+      link: 'https://news.google.com/read/CBMivAFBVV95cUxNazJiWVBVc0duZHZCMmVBZ1ZhRy1zU0MxajBlWENmbWJLWHBYb0o5bGhNZl9iempsYVQ5a043aWFBTTJtM2hqZTMzU2publc2cExPRWJncE95dko1bEVMNHBWSVktdUVvNXdLbGFRT28yYmxwMUpqbDNrTE5CNE5OSnp2bkNmVTlpTjBOS2JydFhXdzZOZUZ3QmxsZnFRQm9YQmhRb0YwUDRsVzVwY2ktRW1jTjlPdVk2MmpBdg?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iI0NnNTVjRXhQZDBwVGREbGlSbXRVVFJERUF4aW1CU2dLTWdB=-w400-h224-p-df-rw',
+      source: 'The Independent',
+      datetime: '2025-08-01T10:01:00.000Z',
+      time: '41 minutes ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Live: Global markets take US tariffs in their stride',
+      link: 'https://news.google.com/read/CBMicEFVX3lxTE14RzBhR1BlSkttNHJnUVlISXNtb2ZUN2docEhuSkw2TzVjZDUzV0FvTElMeHBoZVdMUmpGR1F6MHB2VEVEN2pyQ2h6SXE1aUdjUmJ1OGV3a3Fsb0xvNmc5MEw1SUF6RXFZbHM2WmMwVXo?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNUpNR2RKWDNnM1dVdHlZMlV5VFJDS0F4aThCU2dLTWdZQk1KSlJHUW8=-w400-h224-p-df-rw',
+      source: 'Financial Times',
+      datetime: '2025-08-01T07:02:27.000Z',
+      time: '3 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'FURTHER MODIFYING THE RECIPROCAL TARIFF RATES',
+      link: 'https://news.google.com/read/CBMipAFBVV95cUxPTGd5UTBjblhGdkJnRkxTalplSnNydWplS0s0d0RQdENrZm0yZmVYT1p2RHN2eWNqVi1OUkE2UDYyQUdXQ1MwLS1WQ2lzZ3EtV1JaVVp4RVc4bzdYZ1A1VzEzcmQ4bF9VRWVJQVF4RXVWTDBYSWl2U191YkRZbHpVTl9tWFFwc0FLTngyVjFnOG5SdkVHSFJYdHFEUmE0LTI0NGpoTw?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNWtjV3hqV0RKeVdWaFBRV1I2VFJDUUF4ai1CU2dLTWdhdFJZek9vUWc=-w400-h224-p-df-rw',
+      source: 'The White House (.gov)',
+      datetime: '2025-07-31T23:08:24.000Z',
+      time: '11 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump tariffs live updates: Trump grants Mexico 90-day reprieve as countries race to make deal',
+      link: 'https://news.google.com/read/CBMi1wFBVV95cUxORlg5bnNxazRucFMyTFgyWWhIclJMZnc5aExLaXZQUUpoTFhCMGNXSzdaV1ZyeVdPVXpESFNuc2QxZnNnZm9hSHNYd194MlJvdkx2Ty1SRy1FcklYLVA2X2R6bmE5bzhfUWhuaTRGeWFHMFdoeVU2NW9ISnpWNm9aV2VSLWVHNVJLX3B3d3BwcVpBbjgzZERFb0Z4ai1vNUZIX0NwT1ZYMU1YcVNSSkgwWnA1WlRqaU14VmtYN09qUUlqSHMzLU5ObTE4ejdDaWpzWng5cmRRZw?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNXFhWEIxUjJKUFJtTm1OR3BUVFJERUF4aW1CU2dLTWdZcEJvYnNEUXM=-w400-h224-p-df-rw',
+      source: 'Yahoo.co',
+      datetime: '2025-07-31T19:11:11.000Z',
+      time: '15 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Which countries are included in Trump’s latest round of adjusted tariffs?',
+      link: 'https://news.google.com/read/CBMinAFBVV95cUxNb29ZOV8tNEVxamJjQzdxSlp2S3A2YnJ0LXRUSkY3VHVPejR4Um1CTERCZ3d3SHdQRHA2OVMxT29BaTR1OXQ5Y05Pb3ljVnVKRXRvVFNER2NFX1FaYTc5a25abWZmT1NwRzN3WE4ydzViVUZkV240UlBRaTV3SEt0YWpQOG40d2xnRlo0bVFCMzdCX2txNy1pdEJuSUPSAaIBQVVfeXFMUEZ4ekZVYWhrNXhlbzBudGZPd1dNTWw1Ym4yX1kwcmdyN2Y2T0Vjdk95VDlra0d4Mk9Jd3lVT3ZCZldrZ2x4RjFSMDZ5X29VWG9yNDlEZnByZWI4WjZ3VHdfVGlLRFZ6OUlHeUU3ZzA0S3JHMHhtamJIeGs4eE45Nm93TU1MMktIbF9jNDdadVVYN2JHR2FpSUtLQkVPOWpyaXN3?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNXdka0oxWkRaRVpFOXJVbFJJVFJDUkF4ajhCU2dLTWdZMUpJcHdHUW8=-w400-h224-p-df-rw',
+      source: 'Al Jazeera',
+      datetime: '2025-08-01T03:27:59.000Z',
+      time: '7 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'What are tariffs, how do they work and why is Trump using them?',
+      link: 'https://news.google.com/read/CBMiWkFVX3lxTFBweHdveUp5S2F0aGJwSEs2U2lOMkF6NzRNZTd3bEJUdTQwVjhRX0pjZmFzZ25hRzk4MHE0WW9KVkEtUjIxRUNWbXRzX3pmd1A5UWhyaE5Ja1ZWd9IBX0FVX3lxTE82Y0Q0dVVkNUhXb1o4Tkt6V1AycjA1dmkzbUs3d3JydDktMVNrSnNsNDI1Zk9BdmpMc1BQbGJneThSUDBmUkdUdFhDVTZaTTRGaGlwdDhnR3NPeXhDYW9F?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iL0NnNWZUVk52ZEhObWNIaEtXbGRFVFJDZkF4ampCU2dLTWdrQnNJcmpSbVExY0FF=-w400-h224-p-df-rw',
+      source: 'BBC',
+      datetime: '2025-08-01T03:55:24.000Z',
+      time: '6 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: "Trump's global tariffs 'victory' may come at a high price",
+      link: 'https://news.google.com/read/CBMiXEFVX3lxTE1UYmNkcUFWSFh1RDdUR0pSVUZUZjVicU9lemtTb1NZY21KM2Z2WGdvUXZiSktQVUVBY1ZjSVBGdUFma1ZyckhzTWNjYnhzSHp5UUY5RHRPX09KT0R40gFiQVVfeXFMTzh2VXVMWUp5U1JTU2hKaUR3Y3owZlNVMGxEc0s2OHdfQ2ZwSTRWSFktREhqWk1DUWN1LXhQOWtKU3F3WDhVRGlCdkxYZlltSy02cHZjWC1jakdNOHZoYlV2NHc?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNURkVlZpYjBJemVXWkpaSGhOVFJDZkF4ampCU2dLTWdZTkVwajBKQWc=-w400-h224-p-df-rw',
+      source: 'BBC',
+      datetime: '2025-07-31T23:01:04.000Z',
+      time: '11 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'The full list of Trump’s tariffs – from India to Taiwan',
+      link: 'https://news.google.com/read/CBMiqwFBVV95cUxNbHJTaEJPWEV1eHlLaGU5eGxkV1p2eXVoVTNSQnFWSlpyN1NsZzNOeXd2bzl3d0N1ZGJQYkFsSGp5ZkhIbV9hUDF3dmNnV3JuZ0o4dzI4aHVpZlRPR2doVTlsbExURzMyLUh2YWpUelVZQ1VHYlh4cVhPNDBxTS1aUjRwVVpDM1dHcTBNN3JOZlcwMENENEpjN0pkQVRJVFpLVnpGc0t0c3RvTTg?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iL0NnNXFlRlpsYjNaelkyVkViRlJyVFJEQUFoalJBeWdLTWdrQlFJcU9KR2pZN0FF=-w400-h224-p-df-rw',
+      source: 'The Guardian',
+      datetime: '2025-08-01T07:57:00.000Z',
+      time: '2 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: "Trump's tariffs are back - here's who is in his sights this time",
+      link: 'https://news.google.com/read/CBMiwwFBVV95cUxQV0JOOTF2cXhLM2RfTVlaVnNVaE1EeFZ5MDYyVk9FYVkzYWhtTFlPbG90X0JNXy10UnF2dEpmNGZGdFlKeV9VTEQ1RUxoeU1WY1p0V2c2QjR1N3o3UVpmU0FRV0J0YlhKaXhTMkpCTnVrc2t1Y3hXdlNjX3RFVDhxenY0YUE1WGxWMVByVVZUY2hDdGloaUVRSTNRR1pRTTBDTWd4eUhKNU9xYVoyNnNUX2Z4UE5KRDZtZmxwcWFjSGpqcmc?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iI0NnNXBVVmxaTkdVeFRHTmFPRTFOVFJDZkF4ampCU2dLTWdB=-w400-h224-p-df-rw',
+      source: 'Sky News',
+      datetime: '2025-08-01T03:45:00.000Z',
+      time: '6 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Donald Trump reignites global trade war with sweeping tariff regime',
+      link: 'https://news.google.com/read/CBMicEFVX3lxTE9vdXlyWVVkbnIzOFp3QlhFeklZVkF4cmNXMXdWeHc0MVIyOFZLSVViMFlSV1JRUzVBcHI4d0NhXzZpbS15djJ2ZndYYklDc2ExdVdabDRyNEowbC1tc2hHV09iT1plUWFGVmo3dUtZUU0?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNWhhVkJuUzA5aGRFRmZjSFZZVFJDSkF4aThCU2dLTWdhdEpKeU9tUWs=-w400-h224-p-df-rw',
+      source: 'Financial Times',
+      datetime: '2025-08-01T04:41:15.000Z',
+      time: '6 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'US tariffs and South Africa: Donald Trump presses ahead with 30% tax',
+      link: 'https://news.google.com/read/CBMiXEFVX3lxTE9ROFRIaF9ZdGFLSDlhalNHSkJVT18zMll5VGdIdl9JUUVyTE9XY1VRamdPOHdNc2tFMmlyTE9qTWw2MWFuTk5yNnMwbkw1cy1Sc0lLZnQtU09xd2tF0gFiQVVfeXFMUFdvVlBXWDBBWS13T2Y3QkNjTVFIbWFGV0haemVjSHVtRHBVbkVrYVhOSHZfZmpwUUZ6V3dmZGE2WkJLb1B0a0xBRXpMQlFDV2VWNXJTUzBISHNFckdPOUMxVVE?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iI0NnNW5PVjlTVEZwVlZDMVVWVjh4VFJDZkF4ampCU2dLTWdB=-w400-h224-p-df-rw',
+      source: 'BBC',
+      datetime: '2025-08-01T07:36:32.000Z',
+      time: '3 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'The Guardian view on Trump’s tariffs: both a political and an economic threat',
+      link: 'https://news.google.com/read/CBMiyAFBVV95cUxQMW1YZVJVZktwbktQaFRxT1VJbFllTmRQSkk0a0RjWTJYZlM4al9hdlV0UFVGT1JEN3U1bllzNEhGdmI4XzluNGVQRWRYNzZvRHhPTF9kS1NzOVJxQ1picDd1WWVOa2h5MHBEbkJmT19kdVdadHRoV0cwclUzS2Q1YmJ2QjVmQmxacC1YVmVOc0loUDhVWkpEbEhhTnlzNldsTlBCaWhGTy1ORW1MaHhTS0tuTXBVdzA1ZGw0eUEzbGpRc0pzZGpqdg?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iL0NnNWhUWFpWTjJSVlExRXRRWEo0VFJEMEFoalJBeWdLTWdrQkFKeTJET3ZJeEFJ=-w400-h224-p-df-rw',
+      source: 'The Guardian',
+      datetime: '2025-07-31T17:28:00.000Z',
+      time: '17 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Thailand tariff deal: The shock, chaos and negotiations',
+      link: 'https://news.google.com/read/CBMiWkFVX3lxTE03cno2aG5xdkZRUU55SThQTmhXbVE2cGRMTGZVLWNKZjhqem9tVG1QenM1Mldab0dpZjlEWjZQZmJXX2NBNjBwYTlvVjdnX1B0VVN3dHJrYXB0Z9IBX0FVX3lxTFAzZnFLZWRLc0NNTl9nYTM2OEZkemxIaml3azRESUN2N1gxN1lsbHV6ZGdCTFh1ZTZlUVFNT2QyWi1OV2x6aE45SDB5dHJuQmUxek9NTERkN2FraEtSbjc4?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iL0NnNWpTVXBoVkZWMWVqbHFjVmRTVFJDZkF4ampCU2dLTWdrTklwQVVuZW1wcFFJ=-w400-h224-p-df-rw',
+      source: 'BBC',
+      datetime: '2025-08-01T02:35:53.000Z',
+      time: '8 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Switzerland in ‘shock’ at 39% US tariff blow',
+      link: 'https://news.google.com/read/CBMicEFVX3lxTE9rV3JtcWpsTFMwTHdvN09NZXJMX2c3UEk1c1pOcjlKVXVBSkQ1MGs3REFUN1lpLXlDYm1Nc09NcTdPV2hnSnUzWXplSEFLenNkd3hOSzQ5Nmt0QXhUalRPYlFGUzhPMGFzM1RYYzJrVlk?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iL0NnNDFVell0U20wMVFsUjVVamRpVFJDS0F4aThCU2dLTWdrQkFJb29tZVhCWmdJ=-w400-h224-p-df-rw',
+      source: 'Financial Times',
+      datetime: '2025-08-01T09:32:45.000Z',
+      time: '1 hour ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump raises Canada trade tariff to 35%',
+      link: 'https://news.google.com/read/CBMiWkFVX3lxTE1Leml5c2Y4SFZGakVBRWZmVVRLQVFrNXpSVEkwSlBvZ0N4alF1dXNyZEFYUzA1bXgtaFpCRnpNN1ZkY2M3aVI1NzY2cEJDWk9zWW02cmc3NXVfQdIBX0FVX3lxTE1DZkRzZGd5dU1OSGR6cDlXeG1uUVNoc1Baam1qUm9BTnVqMzljODF0OTFCZzV4WFlzdGxZM3VEQzZSeVlsRURSd25HRkN5cDBhclA3dzdEN3Vzaklmbk9N?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iI0NnNVlTMTlxZUdkUVduRnZRVmhOVFJDZkF4ampCU2dLTWdB=-w400-h224-p-df-rw',
+      source: 'BBC',
+      datetime: '2025-08-01T05:10:34.000Z',
+      time: '5 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump signs order increasing tariffs on Canadian goods from 25% to 35%',
+      link: 'https://news.google.com/read/CBMif0FVX3lxTE9HdXgtb2NvWXJnVkQ5V0gzWDJVWk4tekpBRDg3M3B1eEozdWdtQzBLZnMwUG00RzdFOUxRemxxSUZIWFNabDhsTVA4a2M4N0haZnMxSU92VzR0cDRjTlJKNTlBSGhnTlh1Z0NsM3BQUnNpOEppcFk0SDZZcEYxNDA?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iL0NnNVlZbk15ZURKSFYzaFpOMDlhVFJEMEFoalJBeWdLTWdrUkE2SXlEZXlwNVFJ=-w400-h224-p-df-rw',
+      source: 'The Guardian',
+      datetime: '2025-08-01T01:07:00.000Z',
+      time: '9 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump announces new tariff plan hours before deadline - but delays them yet again',
+      link: 'https://news.google.com/read/CBMirwFBVV95cUxNaHhMeXM3V29HRDU4dWhIQ1NPOGw5elhDYWxnRkMyUnJ4cF94bF9zd2haR3pBYmMxZElfM1ZGc2VoaXY1NHIzQzhnYzMtRENjLVJEdm96TTk0b0pnR3VTWUlmSzNLOUltYnpiVlFic1hRMWlvaTNxNHd0dWR0UEYxZjBmZzdPNWlQOGZib0xRQkl6VUV6ZFBaQlZ0V1BvYkdXWWlXY1VWeGRhQ3NMM2Jr?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNXpOekZIZVhORU5raFdPSEF3VFJERUF4aW1CU2dLTWdhTktKNm1sZ28=-w400-h224-p-df-rw',
+      source: 'The Independent',
+      datetime: '2025-08-01T08:13:00.000Z',
+      time: '2 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trade: tariffs',
+      link: 'https://news.google.com/read/CBMic0FVX3lxTE9aMER4a2VpcHYtMHJabVdaZ2E0a1puR0dMaDRBU1EzZE9jS0ZxTTFabUNYdWxNaFJidlhOZjc3RmFEVENZbk1yYU1hZlp5bmlHM0dqME45Y0tqTE5tRFFJYU1nTDN5QVBaLVBKZHE5MGE3ek0?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNWtZMUp5ZFMxeFRDMXZWVkJqVFJDZkF4amlCU2dLTWdaRlFwcjBJQWs=-w400-h224-p-df-rw',
+      source: 'Institute for Government',
+      datetime: '2025-07-29T07:00:00.000Z',
+      time: '3 days ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Inflation is rising, and it’s not just the tariffs',
+      link: 'https://news.google.com/read/CBMicEFVX3lxTE1CNHhmOUxjTTROeU1HLTk1ZzR4emk5S2Z1NE8tZEotaGxWZGdRZndrRG01QlhiUXdLWEZnMzdpTko5RGZvMVE1Y0xPd20weHFUSi1wNnFYdG1kOHFzelQ0OUh4UlI0MHdNZE9fQ3BzZEQ?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iL0NnNHdUazFFT1ZWVFFVVm9VMFZ6VFJDS0F4aThCU2dLTWdrQkFJS0ZsS214Z2dN=-w400-h224-p-df-rw',
+      source: 'Financial Times',
+      datetime: '2025-08-01T05:30:25.000Z',
+      time: '5 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump unleashes sweeping new tariffs in a blow to global trade',
+      link: 'https://news.google.com/read/CBMiigFBVV95cUxOVFBfcEt2ZF9WWkM2cWFmbGprMjc1ZXExeVdtb3J2SFFSdWV1MzFoLU53Q2NBMUx1Z1hHaUZCN0l0R09kN2YyOFQtOF9Ea1BjdGNGMFBiai1ic1U5ZG95Zm5aMkpPVEMxMDhyQnE4anpGSEo0RWkwOW5yOFBXbmdOZHhxTHdKQmI4OUHSAY8BQVVfeXFMTXNVYXNNNlZtQ0RDSmlwU19tSDlZeERJMTJhMHdFX25kY25QSmllS3lOUUpHZDBRejM5a2ltckRMVl9mTEU2QlNnNWEzLXpQZzBTa0dsVTE4VGw3blYzaG5uZE5LektQT2tWV0UtRkcyQ3BXeWpxbUMtX0phYjlfdDNzWFpfNEFqZUFMMzFRLTg?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iI0NnNVFiRGgzYzFNeVZrWkZUVEpQVFJDZkF4ampCU2dLTWdB=-w400-h224-p-df-rw',
+      source: 'CNBC',
+      datetime: '2025-08-01T10:31:00.000Z',
+      time: '11 minutes ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump unveils new tariffs on 92 countries, with Canada hit by 35% levy',
+      link: 'https://news.google.com/read/CBMipwFBVV95cUxPeWU1TWV5OFBoUVAyR2xwZXhuQkxSTTV0cENJTlhrQW95UHl5YWRIelZ4b2Jiem5OLUxWTzBmQUc4N3NoVHJpcTVyOGRaRGNBTF9uS3ZmdXdvanRKQUV6c3lZWlFtQ1FFTl9BaG4tQkhTXzRTN2hibzFCTUtxRWtqWWlzcl92R2dvZmxvbVVFOXluRVNhUDFnQXl1a3huUW1obWNLWWsxbw?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNHlZMlUzWVdSRlR6WkhiR0Y1VFJEaEFSaVFBeWdLTWdhdE5aYk5IUWs=-w400-h224-p-df-rw',
+      source: 'ITVX',
+      datetime: '2025-08-01T08:14:49.000Z',
+      time: '2 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump announces historic new US tariffs across the globe',
+      link: 'https://news.google.com/read/CBMifkFVX3lxTE43M3RGTkVUTXpYSWFOTHllaFN5bzQ1MEE3LUtXTDR4Qk5kd2N0NkV0eUZ3MG9aRkp3UVZpemJGeVdyamtHVXhZTmgxMHNzM3Y1enVZdFNJa3FvZzhKVHBqVXpOYnRiMnR1VTc5Z2JueWwwRjJpMmxKZ0FfWW9GQQ?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNVpNM2cyVHpaWU1VWkVkWEJwVFJERUF4aW1CU2dLTWdZQllKS3ZMQWc=-w400-h224-p-df-rw',
+      source: 'CNN',
+      datetime: '2025-08-01T10:06:00.000Z',
+      time: '36 minutes ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump’s tariffs are taming China',
+      link: 'https://news.google.com/read/CBMid0FVX3lxTFBsTXlqa1ZCS2NoV1BpNk1uMlpEcGdSNzBHZ2NXX0ZYXzVhUzMzUnVzQy16aTRRWjF5d2ctRFpaZjBNQnRhSlctdGhPOVJ4TnFLcnFhOVlHdFgxV1pQSDNmRnBveTlqWHVSclhlVUJNcnhyT203NXAw?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iL0NnNXFjRUYxVUVvdFlscFRlR0pIVFJERUF4aW1CU2dLTWdrVlVKaHBLbWdlYUFJ=-w400-h224-p-df-rw',
+      source: 'The Spectator',
+      datetime: '2025-08-01T08:19:38.000Z',
+      time: '2 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump tariffs live: US sets rates for Canada, Switzerland, India and others as August 1 deadline expires',
+      link: 'https://news.google.com/read/CBMikAFBVV95cUxNbGJRMW14WHhLVk9VbHZfQXExTFJQQ2pJMUVfMm40SkFpTFJ5SDc0cEdOckdWajViS3JjM25iSFo1NUQ4d0N0elcyck4waW92TmZrRzFNWktmMHV4MEpCSHFKWU1WdkhCR2xPQ1N1cTd5bmtrblFxUmhQdFU1U2JJV2lXdjIyUVpWTkRQT21LbjU?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iI0NnNUxibmRXVEZoQ1JXMW9NMVZEVFJERUF4aW1CU2dLTWdB=-w400-h224-p-df-rw',
+      source: 'Reuters',
+      datetime: '2025-08-01T07:41:15.000Z',
+      time: '3 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'What has been the impact of Trump’s tariffs so far?',
+      link: 'https://news.google.com/read/CBMimAFBVV95cUxNQnlrcTNmV3dQQWJtc2Z5WjZpQlB5RWRLVEE4TGQwU01wRkppLUdqYmEtTk45QW1MNkY2V3RXWVkwZWNiRzg3OXRoeU5jbm1RN0pMZlc3UXNKRm9BLS1oSmFhR1g5RGRVSC1ITUUwcDZIRXdONTJuMGgyeUd6WlZvaGMyT1E1Umh5TXZQYWZYdlpEV21MSHJwRtIBngFBVV95cUxOZjFLMmZBeUhPMklvZFJFbEJHcFRCdEhDRzJPYm1zb2NkWUNJOHhycmlTMVUtd0R3RC1vbURRMV9ITklrcnBjN1R3SjZuVy00YVlUaXNDdUJCN0swQ1pXb3lhcEs2U3hQMWlIVUlMeVZfeW9oQXhCZ3ZUUU9ZT3c3U3o0cFM1M1RESE9OMnNySXk1MHRScU9lOVMwUmJHZw?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNXlTRmR3VW1KblJFNUJVMGxPVFJDUkF4ajhCU2dLTWdhTk9KcW1uZ2s=-w400-h224-p-df-rw',
+      source: 'Al Jazeera',
+      datetime: '2025-07-31T22:19:16.000Z',
+      time: '12 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: "Trump says his new high tariffs are going 'very well, very smooth' — but he's open to more deals",
+      link: 'https://news.google.com/read/CBMijwFBVV95cUxNTmhCR2wxQVJVMXdqNmJ4QndpWXgwc0M5Q0FOajM1Mm1tS1NLdDVYdmlXaTV2MDgyZXN0V0tLaXBpZ1JUVnd3N0VFa2hoZFMzNkM2SDBCLWQyVEZCUllFeUxwbWdVQjdJejBuejItTHRLc2pKWmNLbTYxTTNSTkNHcHZabnBWbmkzS1NmakFBY9IBVkFVX3lxTE1rb1kxNC1MNktxMFRnX1phMTgydTNLb0pwcVdzc1pqM3VOSkVDbFFmc1hTa2hNclprd2RHUzRIbkhNUlEybUg1UXVmc3lJbDRwcjhGQkNn?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNWtPRkpSUXpaNVZGWTBXR1F5VFJERUF4aW1CU2dLTWdhbEZaN3RGUW8=-w400-h224-p-df-rw',
+      source: 'NBC News',
+      datetime: '2025-08-01T01:51:00.000Z',
+      time: '8 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Australia dodges latest Trump tariff hikes as trade minister heralds ‘vindication’ for Albanese’s approach',
+      link: 'https://news.google.com/read/CBMikwFBVV95cUxPOEc5eVBpeW9qMGg5S3BrTTE4RDRMS3hnTGpGWWg1am02Q2RCM0pRMmVuTXFtMUJPWTJEQ1hQWTd1RTVRUS1DNEZkWHlBX2tNV205ZEdZSzJ6c0U1eDUzU0s4TlJ5Vldzam9KbDdFMVFCWEJvbk5OM3E3b3lpZFlqdDV1NWl1SGFWVXd6YXpvQ0libnc?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iMkNnNXVORTB5ZVUxMlYwRk5TbXBZVFJEMEFoalJBeWdLTWd1Qk1vd2pxMmg3TTBsUnVR=-w400-h224-p-df-rw',
+      source: 'The Guardian',
+      datetime: '2025-08-01T01:01:00.000Z',
+      time: '9 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: "EU-US tariff deal not finished yet, say Europeans unhappy with Trump's terms",
+      link: 'https://news.google.com/read/CBMiWkFVX3lxTFBxY1dTTmhMdWItYkljMVlROGlLY2FOMjRFQWN1WVVKZkdiTTM3ck1PYW40NXJmbGtOWlVRMERNWkd3LTZ3c001cE4zSHhGYXk3UldUT0hvZG9VQdIBX0FVX3lxTE13aU43ZUhUVTdoa3kxQ3RVQlBhblhOcEZubFdNT29PTFBoRGRrTW9YSTN6clNpMzh3T2hWLXA3TzNxdVZMX2JxN0RaeXZ6Rm1UdkJPTmxQWTZFVGlpTE9B?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iL0NnNXNXbEkzT1ZGM1JrRXdOMmRMVFJDZkF4ampCU2dLTWdrQkFhSzJpQ3ZCNUFJ=-w400-h224-p-df-rw',
+      source: 'BBC',
+      datetime: '2025-07-31T16:15:46.000Z',
+      time: '18 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'US trading partners rush to sign deals before Donald Trump’s tariffs hit',
+      link: 'https://news.google.com/read/CBMicEFVX3lxTE1tVFY5QmZOdXRvbGdJYlB4UllSVW0tczFkdHpsXzdWWTFOR1N0MUgwVGs1dFVsdExsajUyN05wcTJILTZtMWpVWVBzYnd3RGpSbnhKT3UxWC1qVjM3Y2pSUndsVHE3M0lVeVo3MWNHRmU?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNUZWRlpJYUMxc1ZYTk1TVTlXVFJDS0F4aThCU2dLTWdhdE5aVE5IUWs=-w400-h224-p-df-rw',
+      source: 'Financial Times',
+      datetime: '2025-07-31T05:31:15.000Z',
+      time: 'Yesterday',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump delays EU duties, hits dozens of nations with sweeping tariffs',
+      link: 'https://news.google.com/read/CBMiuwFBVV95cUxQdzdFdVkxY2RUZ19nWUE3UnRoeHJ1RmtYNWRReVc0c2VVQnV0czdzMm5nNjRtQ2NiRWxHY2t4YzJ2aG14bEVVYThEbGJxRlBvUW5vQTNxalQ2a05Kem54UmhreHRseUhVTXRHRWpjYWw1cTJtWVozeU8zSTVIdHY5dC1zbmx6cUZGM01Jdi0xQ1BwcDBHWnJ2b3l4S19iT1lBaWhWcmotamNfaWFSdnZFdHNvc2V1QlUxWThR?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iI0NnNXRaRXMxTFdWbE9UQjRjMVpxVFJERUF4aW1CU2dLTWdB=-w400-h224-p-df-rw',
+      source: 'Euractiv',
+      datetime: '2025-08-01T08:15:00.000Z',
+      time: '2 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump Boosts Tariffs Across World, Reshaping Global Commerce',
+      link: 'https://news.google.com/read/CBMirgFBVV95cUxNYWtTMDZBNzFDTXdOTGZkYnBrdGdNTVJpTTVLV2E5aGJ5Y3pLNWRjeWVUTm1xWnBLbUp5Y3V6aTBRd1lmVzREUEFWVXc0LUxsbEp0aF9xbFgweE44Ry12OXkzT1VTd0VCeXF0UW5LbkdFTGMxbHhxd29UNWlaSk5PcE1NN1lLOHB0MjNWVWFtRmZZZ1ZjcWVyX3hPbkZuQzVBVFdmR0NCcnliOHl6LWc?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iI0NnNUdTRGQwY0dGNVJFMTBVbTFxVFJDb0FSaXNBaWdCTWdB=-w400-h224-p-df-rw',
+      source: 'Bloomberg',
+      datetime: '2025-08-01T06:10:00.000Z',
+      time: '4 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Amazon fails to calm tariff worries with worse-than-expected financial outlook',
+      link: 'https://news.google.com/read/CBMiiAFBVV95cUxPS1lSSUlRcjdmUk9fQlhMcTVudmh1WGUtb0dfZnJHYXFYWVVNSU1mcWZJNmlYcDVqSmwzTW5paGFRVEpZa0c2SnEtSGNJRnM4Mzh2TzZtU1VTRGxRYnNBRmk2T0I4V3U3LVlodUpEUHpsOE5tT3U4TVhGSE1Oa1p3Q0cybFdIeWFm?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNXpiRmhGYURST1EzcERhelIxVFJEMEFoalJBeWdLTWdZQlVaVERNZ2M=-w400-h224-p-df-rw',
+      source: 'The Guardian',
+      datetime: '2025-07-31T21:52:00.000Z',
+      time: '12 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Maps: Tracking Trump’s New Tariffs on Every Country',
+      link: 'https://news.google.com/read/CBMikwFBVV95cUxNMGxfNTdqalZGR0d6aG9JVjE4dmJCYXlYWHI5M2pvZDRFNllsV1J5dGZ0RXB0TllkME5QNEhabGZfeTJSSFV1YTJrdTNaaW1TZkIxQjVZcVFVc1VZMnRIcl9KZDcwLXFlY2JWd3VEZFUtNEVoM1dzMmdLQjVRbTE1amg4UVVpSW10bllrM05RbzJzQmM?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iI0NnNVBOSEpZVTBKVE4xcGtWMk55VFJDUUF4ai1CU2dLTWdB=-w400-h224-p-df-rw',
+      source: 'The New York Times',
+      datetime: '2025-08-01T10:02:46.000Z',
+      time: '39 minutes ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Donald Trump announces 25% tariffs on India, then says talks continuing',
+      link: 'https://news.google.com/read/CBMicEFVX3lxTFA1RC1UTXEwdWh0Y2Q2ZEFUNXRKLUpnWjRnNzJBN1BQSGstbUduQTQwWTFndWdpaWQ3VmtSVGlfNy1uQlZReFdCcDgyWEJZNWV6dVVydlo2a0JVR3E4RTlGS3hIMTNjcGZuSHR4VjBCOTY?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iL0NnNWhVek5xWHpCd2NYSnZaSFpRVFJDSkF4aThCU2dLTWdrWkE2QkpqdXRVcUFJ=-w400-h224-p-df-rw',
+      source: 'Financial Times',
+      datetime: '2025-07-30T12:21:30.000Z',
+      time: '2 days ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Live updates: Trump to hit some countries with higher tariff rates; Steve Witkoff and Mike Huckabee to visit Gaza',
+      link: 'https://news.google.com/read/CBMi3gFBVV95cUxOT0RoUXhWMFI1eFhCektiVjh6RFo5blM1U05SNXE5clZHV29MMmo3SmhIYVhGYlhObThFUVdrUzVaNTk3QWlIQ0ppZkNVQzFoUE4ybm5jZWRmdW1WWHd2N043YlZYYk5MUHdRRHNiTzROQTNEa19DRmNfMFhWRzJzYXNHMV9Zam8wOTFudk54U2dRNkN1dndCM1BGZUtKVWhmLWZnZ0Z4OWdrN2RRU2ZPTkJXLUFSbzctX1dNQS1SakV3SWt3enVTdkg3YnZpQnZvWldtbjctbG9EUGZXNFHSAWNBVV95cUxQYjVPVWRfOE42VDRuc3owQWVPaTd6cnVSRm1teUNlVmdyU3pOcWtobTRHeXBJYjA5V2NqN3BCSGpqUFZDMDV3SXNsTlRIRWpKM29ucDRBUjdQUWsyRG4zQ2poYUE?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNXhZbWRXVGpBMU4ybHVTalZvVFJERUF4aW1CU2dLTWdZdE5acXVIUWs=-w400-h224-p-df-rw',
+      source: 'NBC News',
+      datetime: '2025-08-01T09:31:58.000Z',
+      time: '1 hour ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump Unveils New Tariffs For Much of the World to Take Effect on Aug. 7: Live Updates',
+      link: 'https://news.google.com/read/CBMid0FVX3lxTE1PdUxXdmcwX3VEWHlMYk5Tc29TM2J4eTJ6YUNZalFKMldDRTJwSVNjZDlKMF9lWDFfTS1pdjJkdlNJcWo0LUFqREt0YzVBRG5TbFpiSkwtamEyMVNWRmJ1cWpPaHluQzNicU1lRHlOUm91OGlyemJR?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNXFaVkl6WkVZeWVFTXRZWFI0VFJDUUF4allCQ2dLTWdZQlFJVFdTQVU=-w400-h224-p-df-rw',
+      source: 'The New York Times',
+      datetime: '2025-08-01T03:41:00.000Z',
+      time: '7 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump imposes sweeping new tariffs on dozens of countries in latest bid to reshape global trade',
+      link: 'https://news.google.com/read/CBMikwFBVV95cUxONi1GOGZqNnhoVENWNVRjMWowcEJqZ1Vwc1lHckpOd0tMLV9YNk9XQVdZckpoUndXSGlmWm9SZEttT2VRaVpMc2JNUnpuNkp1UHBwNGVacm53YlRjVVR2UmxWdnNFM2xwUmdPazI4M2VNQ0NHai1OQ2xPT2ZBMC1oZlhwelUxQjhpTW9GdmlNNG1pLUU?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNW5WVU5IVWxkTFFXcFRYM0J4VFJEMEFoalJBeWdLTWdZcEJvVHNEUXM=-w400-h224-p-df-rw',
+      source: 'The Guardian',
+      datetime: '2025-07-31T15:34:00.000Z',
+      time: '19 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Donald Trump announces 15% tariff on South Korean goods',
+      link: 'https://news.google.com/read/CBMicEFVX3lxTE44bEtNR0lKVGZIT2VuRzRWQVM3NXU1WGItMDdzVlYwVURNaFNNLXdyeXA4VWJ0Yk9oT3V0LUU1NUpJa0gyYUE4MmtKVnVfN0pmVWlXVHVQNVBUYmt5VGRrQWtISm8yU3RkZWh2eElXYk8?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iL0NnNHhVR0pTVlVKbVgyNTNTMDFYVFJDS0F4aThCU2dLTWdrQkVJckxsS2swTFFJ=-w400-h224-p-df-rw',
+      source: 'Financial Times',
+      datetime: '2025-07-30T23:22:33.000Z',
+      time: 'Yesterday',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump announces sweeping new levies for scores of countries – as it happened',
+      link: 'https://news.google.com/read/CBMixAFBVV95cUxNZ3BUNnVWTUxHWTR6SXZBQ1ZjbWZINW5ZME91RG11dFY3VDdqOXYxVFdjZVh1Rk9kc2k2d3I0Y3lEdmh1SDk0My1pZ0xqV0lCMV9GbEhYYVB5dDIyVnlXUWlBd003dEt0RTBFRG9QbjNaM2R1UV90U2t3bzNBMVhCbENIQjlRblBRRVNCOFE5QnJzMDVfWDZUajlibmd5NEdBNXJiZTEyZlVQeDJiM0pZclk5MXZwb1V2VHQ5ZUw2bXJZUEU1?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNUlabko2YWpoSk9YSmtkVUZyVFJEMEFoalJBeWdLTWdZUlY0d3BwZ1k=-w400-h224-p-df-rw',
+      source: 'The Guardian',
+      datetime: '2025-07-31T09:24:00.000Z',
+      time: 'Yesterday',
+      articleType: 'regular'
+    },
+    {
+      title: 'EU begs for US tariffs',
+      link: 'https://news.google.com/read/CBMiiwFBVV95cUxNakp2MzYtLXhVYWFyRkFCVFdWTkRqMmZDcF9OZmtZWXNqSjhvWGk2NGh6NldZRGVqZGkyNWRqelo5bG9sZzJRakZ5LUNOYi14amxTMUlMc3VGUHdMQ3JxTE0ySmQ2RWNkWE9xZTdJX0pKZUdNeGNQTm5FcGpUQmlDdjFXZ0xVVmdoMlRv?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iI0NnNWtNMHRCU2tWZmNGZHBTR3B1VFJDZkF4ampCU2dLTWdB=-w400-h224-p-df-rw',
+      source: 'Euractiv',
+      datetime: '2025-08-01T05:43:49.000Z',
+      time: '4 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump tariffs live updates: Trump threatens India with 25% tariff, sets copper and Brazil levies',
+      link: 'https://news.google.com/read/CBMizwFBVV95cUxQa29aNWo5NkFfd0JKOHFFT3F6SGctOG9wRmRiTS1XcWpvLXFDMDRGbFJhUXpHZmtfWVJwLXhhcWJ2R0ZKS2tNWnBad21EdGk3bG9SanlySnVJV1FYcGQyY2JlS0NFd3NveGt4ODlOcTlWRzdGTTZIcXVKMk1wUjJCSXl3MTgwSnJ4RDl3eHE2VmRXMWJhMFJuY3MtZWc4andzWUdfSnNzUjdWZGdFWkpxNEYtZy1Qa3BmMTZBWGhTWUw1NzNOUTgyM1J2eFNEb1U?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNXZSR3ByWHpGTGNHZEZZVmhMVFJERUF4aW1CU2dLTWdhQllaYlZvQWc=-w400-h224-p-df-rw',
+      source: 'Yahoo.co',
+      datetime: '2025-07-30T20:58:07.000Z',
+      time: '2 days ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Taiwan to India: The Trump tariffs hitting Asia',
+      link: 'https://news.google.com/read/CBMiWkFVX3lxTE9RYWdmTkNOTVBmQXZySFdrbVJqUGI2S09XV0lQNG5ackJjVWxpU0psVi1GTHV0UDNVZ3FMNHZXWmUxOURxLTlRSXpCMkZOeDhjOVpvZkVFemlNQdIBX0FVX3lxTE0tamxZVHBwM0IwR2dUMExrWV85a1Y3M0haRThCSF9VRlpIc2NFbWZLcnprQXB3MXk5V2doM2NneXBXUkNxTE9sTzgtbGV4aUhVelFGaUdpb3ZGc2F2eWFj?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNDNkRmhZVlhKQlRFNUlRemhmVFJDZkF4ampCU2dLTWdhcFZJaXVyUVk=-w400-h224-p-df-rw',
+      source: 'BBC',
+      datetime: '2025-08-01T06:09:25.000Z',
+      time: '4 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: "Trump's tariffs could deal a blow to India's growth and exports",
+      link: 'https://news.google.com/read/CBMiWkFVX3lxTE9MSF9pY2ZoREtNVkxlLXVNUkY4VkhVZE40MU9SWFpkaVVvX19wcmtnaGRGdHJfQ0ZONm5jRm9kZWQ2T25oVW80TkpscmF6QUc4endONFBtaDdIQdIBX0FVX3lxTFA4UTFtN1hvSW1KVnJyN2hHaklUN1FMVWFfNHVEVjJfV1RKUUFfZFpnX0FWb3h4VDlZRklCMVBjNXlIZFRnbEM5SEtPZUxpYzlOOGJRUVZqc3JwbjNIUEg0?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iL0NnNU1OakZTT0ZsSGJUa3RSVXBIVFJDZkF4ampCU2dLTWdtUk00eW5OdVpNcGdJ=-w400-h224-p-df-rw',
+      source: 'BBC',
+      datetime: '2025-07-31T05:12:14.000Z',
+      time: 'Yesterday',
+      articleType: 'regular'
+    },
+    {
+      title: "Trump to hit India with 25% tariffs - plus 'penalty' for trade with Russia",
+      link: 'https://news.google.com/read/CBMiWkFVX3lxTFByQ3N0bEl5aW84bTVqTE5hWTlESFAydjA3bGpZbjlBNXhzTzQ2RVdKbVRyM21hUWFyZkJfb2ZjOWJnT3RxNmhHS1daZEZJZFhTTGZhOGU2cXR5UdIBX0FVX3lxTFBMd0pwNldETzJGbmE5Y2JNaHAxTElFcFFoOUFMYUhuaXZZVHhhZFVUbDJZYjB4MGhaY3c0VF9YbVRRdWtEeko1a01tU0xjRXFNbW43bXowU0l3VFBVcHFR?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNVhNbUZTY0hweFYyZGtTbmRvVFJDZkF4ampCU2dLTWdZTkVaeW1HQXM=-w400-h224-p-df-rw',
+      source: 'BBC',
+      datetime: '2025-07-30T16:33:22.000Z',
+      time: '2 days ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump hits dozens more countries with steep tariffs',
+      link: 'https://news.google.com/read/CBMipAFBVV95cUxQWV9xMnNtT3NKVzNLUFpXYmJKd21oV2QyX3JRWDh6b0lNdlQweXc1emJjc3JYdnB6UDVMcmFja092bjNSNjVZeVN6NnUteTk3RG0xMnNBQ2drYjBiUW16ZVF5QnlOQzU1QXhFN2w3T01weTFqOXljeXg4a3RTNXFLS3ZOM3FGMEtkNGM1NzZKUmVSYWM5V1JzelhMdU1qWlZENHNFYg?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNUJTVmRrUlhWMFYza3hZVGhzVFJDUUF4ai1CU2dLTWdhTkVZUXhGUWs=-w400-h224-p-df-rw',
+      source: 'Reuters',
+      datetime: '2025-08-01T08:57:04.000Z',
+      time: '1 hour ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump Tariffs LIVE Updates: "Going To Prioritise Key Trading Partners," Says US On Tariff Rates',
+      link: 'https://news.google.com/read/CBMi6wFBVV95cUxOb2NIMHAyREtLeThiOWs2cWN3RkpNV0VqTXAzOXV0YzdjbnlILU9HOTk1T09mUXA5OUtKTlRjajFoV1p5WDJCcURnc2d2NHlKZGRncjQ1Qk1XX1BlaDhEN05VTzBtN2Zkb01xMXg1YmpIcUVYRER0OGtwVGtDOHlEOXlpQjZZalI2aDN2VGhrRXljV1dtR3RMbzZpTWVfYlkzRmNqWVViYkd3ZXRrLTdxak1sRGg0SEtybUREMWhWZ093WjVtajduNzhSMDVBOWZHb0NFaTV6ME9vd2s5MVpXRTYtbmJVdDhJQjJF0gHzAUFVX3lxTE5QeFg4OTRsLUo2YXZoOGQzSkhQSUF0QVdvS1lVWDhMRWdIRTNfN3FfSkI0b0t2b0U5dHh1ZWNMblBObUVqS1lxMG5oeUEtUkxjN3BPbm40RzJNYXVDNzlSMVd5QVBpYUVEZXdTWkhjOU5UN3dMRmZaUTlBVW1jUFEwS2xxUmh2eEo2cVJmbjJYOGtFcDBpRTdfUFRtQlhIVzlNd1pnZFJOTDloOE93TmpORlZJSGM0clVrZUtXU2d3eXFseXYzWEJiRXRtbDc3VVVqSVZyVjlOY2loek9qcGJsWnVVQU0xckczX2dNSVVUdmNYcw?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNXNZblJYYUY5cGNHaFhMVjh0VFJDeUF4akNCU2dLTWdZcFFaVHNtUWs=-w400-h224-p-df-rw',
+      source: 'NDTV',
+      datetime: '2025-08-01T09:22:59.000Z',
+      time: '1 hour ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump’s tariffs face skepticism in court hours before latest round is set to kick in',
+      link: 'https://news.google.com/read/CBMigwFBVV95cUxPY2hpUWhGWmFncWR3NWRaVEU2VjBubE9VaW9YeGxlWng3cHd2Q1RmWi13MFM4SkZoWHNQNzRpMm42V0t3WENnazZwMjNpc3c3TlZkdnctLUxNUW5TRkl4RDVIUjB6bS1mOGZ0OTRNQkdqXzRQQ3JxVWFtRzl5b0RoUjE0Zw?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNW9lRlp1VjA1NmIybFBOakZUVFJDMkFoalJBeWdLTWdZQk1JUnduUWs=-w400-h224-p-df-rw',
+      source: 'The Guardian',
+      datetime: '2025-07-31T12:19:00.000Z',
+      time: '22 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Canada punished as Trump unveils sweeping global tariffs',
+      link: 'https://news.google.com/read/CBMihgFBVV95cUxOWUNzZmpVWmdDbjVFRnpfcFJ3N2lpVUxkVU5sWjVvZGpMUWJONFZPZzBBSTdHLXZxWDVWSG9DTlFqajRCMldjbkxNTjFabTJ2dDZrRndzeG1aVllYYnlUNWpkdG96VE5XR3o5ZVlBNmQ2dzNfQnJCa3dYR05fc0hTQjJNbEpKdw?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iI0NnNTZkMWRyUjFkVlNVczVNR3Q1VFJDUUF4aUFCU2dLTWdB=-w400-h224-p-df-rw',
+      source: 'The Telegraph',
+      datetime: '2025-08-01T05:02:00.000Z',
+      time: '5 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Canada braces as tariff deadline looms and talks with US ‘chaos machine’ drag',
+      link: 'https://news.google.com/read/CBMiiwFBVV95cUxNMS11bTdTVDcteVV1ekU2Q2FrbTU5WF9fYlFYN0FNRjFacnNLckJYLUJKUXprekNXQzFDQVNmZ0RhdklQRDNqdWJJanh4RjlvY04yd0phVEFLeTZRZGwyczEyZ3p4OTlsMFNWRDVST01scW1CVXEyS29oWlhqODYxRnh1cGJFN2RKZE9R?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iL0NnNUZiVEJHUzNkaWRsUllaR1F6VFJDMkFoalJBeWdLTWdrRk1ZaVhvT25BeFFJ=-w400-h224-p-df-rw',
+      source: 'The Guardian',
+      datetime: '2025-07-31T15:07:00.000Z',
+      time: '19 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump Administration Live Updates: White House Announces Sweeping New Tariffs for Much of the World',
+      link: 'https://news.google.com/read/CBMiY0FVX3lxTE15WlFqYmJPNzdIN3djd1J3UTRtTzRaU19uRGhkWndCUzVIa1VyeDhLcnV0cFNPeWR3SGxlYkhkVnJSSEN2MktrTVlkbDVrc3dVZDVVLWtKTklHNWpXUEFXaXFCVQ?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNUtTR2s0TW0xQ1ZHNUVUbXgzVFJDUUF4allCQ2dLTWdZTlFKeW9JQW8=-w400-h224-p-df-rw',
+      source: 'The New York Times',
+      datetime: '2025-08-01T01:49:00.000Z',
+      time: '8 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'US copper prices fall after Donald Trump exempts refined metals from tariffs',
+      link: 'https://news.google.com/read/CBMicEFVX3lxTE8yQ1Z6bVVublVhRktzMjFUVThMNDMta2VVWTB3Wk5jWExmSVA4Qkp0OHNPR1BFeVpZMWVKdkZ6RGgzNm9VeWxKZEgzQXh4dTk4bkJILUVHU1ozOGdGTldJYkt5R05TQ3lodWlMb0kxcWM?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iJ0NnNVlNR3hZU1RrNE5sQjZXSEJhVFJDS0F4aThCU2dLTWdNVkVBWQ=-w400-h224-p-df-rw',
+      source: 'Financial Times',
+      datetime: '2025-07-30T18:43:14.000Z',
+      time: '2 days ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'As Trump’s tariff deadline looms, where do things stand on trade agreements?',
+      link: 'https://news.google.com/read/CBMivgFBVV95cUxPTmlxSFJaeXhqcjZHTGF0WXRuMkhLTHRCcjd4QW0tRXp3WkxHb1RTT3FFb05RdFhxVG9PbURHVk5FWVRmTkU0ZzU0eUdUT2Y5R1lsdHJwZTBkNXcyZDdTOUtFcG1abHlxZ1EyejJYeTZ3NkpQbm8zMl9vTTdMdGR3Q1p6LTd1OHNDM18zUjNGbUlzUGREMlhKS1RJdGptcEkwU2x1Vl9SOFlLaTJMRmx5R254T0JHazgtaG1qa0Rn?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNXpSbHBLZVhnNVEwcEJTRVF6VFJEMEFoalJBeWdLTWdhaEZack5FUXM=-w400-h224-p-df-rw',
+      source: 'The Guardian',
+      datetime: '2025-07-31T05:46:00.000Z',
+      time: 'Yesterday',
+      articleType: 'regular'
+    },
+    {
+      title: "Switzerland is assessing higher US tariff, pushing for 'negotiated solution'",
+      link: 'https://news.google.com/read/CBMiugFBVV95cUxNUXNVTUs3REw1dWJFVUp4NEx1UHgyS1U4UWFkVzZtRTBrdVktb1lTZVdyc0lXQkVURmFEM2RjNFRFZnRfNU9JeEx3N0EtVWhzQUNRMnFfM09RUFpaaGRqb0FVUXhRcnEyaGJ0SjllZ0VxNmZqdmh2cEhETkxlSzBPT3JkMzF0dEVpbHBiRDF2WFJCc2NYamZ5ekNKRXA4cDc3YjNvd18yNlMtYnNPOXFzMFdKRFF0MEZsZFE?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iI0NnNVFXa1JsVUc5a1lUZzVTMWRLVFJDUUF4ai1CU2dLTWdB=-w400-h224-p-df-rw',
+      source: 'Reuters',
+      datetime: '2025-08-01T07:46:12.000Z',
+      time: '2 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Tariffs: Trump announces deal to impose 15% levy on South Korea',
+      link: 'https://news.google.com/read/CBMiWkFVX3lxTE12UGNXRjlzc25OUTNsM3VqaWFhMlVSQzhEYkdOY2FWWlp5Q0ZIc20zX3k5OW02SXZldU9DRHhuSF9WTHFTd0NXSzB6OEkxeUpLaDVMN205Qkdmd9IBX0FVX3lxTE81MDlQQjJpQ3ZYXy1oZ3cxTXhPejNTcGxiSHlRUnRCQVNCRHdKZnp1QVQ0YW1OeTFRVFQzREhpMGQ2UDJtTFVBWkVWd0lLeV91SVFVMzVINFpKcjNJeGNZ?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNDRkVTgzY0RNdGRFRnZXVEZpVFJDZkF4ampCU2dLTWdhVk9JQm9uZ2s=-w400-h224-p-df-rw',
+      source: 'BBC',
+      datetime: '2025-07-31T01:28:39.000Z',
+      time: 'Yesterday',
+      articleType: 'regular'
+    },
+    {
+      title: 'How much cash is the US raising from tariffs?',
+      link: 'https://news.google.com/read/CBMiWkFVX3lxTE1mb2RBbHNjMTRWRDlsS2pGNng0VjZ1RlphcWRYSEdqaXF4dzIzb2JTZV9PS2d4dktwXzI2MlVRVXluamxyaEM0b0tDdHlaTzA3czZJaDh6dDQ3d9IBX0FVX3lxTE5UOHFlQndkNnFKeU9IVHpaM0lWOGxfbzVHZlo5NmoyZTZUZ0EwTEdwaTZ5RWtYLWJZbkhaaTkyM25zVVduMGJpS25DY3hvcWFIeGczdUYxaEVtYzZtLVhZ?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNHhUM0J5UVhwdVJXUkhZbnBUVFJDZkF4ampCU2dLTWdhTk41Wm9vZ2c=-w400-h224-p-df-rw',
+      source: 'BBC',
+      datetime: '2025-07-31T00:31:33.000Z',
+      time: 'Yesterday',
+      articleType: 'regular'
+    },
+    {
+      title: 'Ford says Trump tariffs to cost it $2bn this year',
+      link: 'https://news.google.com/read/CBMiWkFVX3lxTE01WGFQRnlUMEg4SHZFZk9nVUtvUWpzQ3JPTTNFSlktbkpLYmN3YWRTNjAzNlVzWEllVWw5b3hSNlNTVjVBYXZGcUd4RmduYjkweW1vS2pjeWdEZ9IBX0FVX3lxTE1GeTNWX3daZW14NFNOTGd6cnB3X0xDRUhzZWs0b0NvUlBKeGt1YndMODFUZU00dWxsQWRpdF96S1UzaTFMU2lIVjdYTWlPNS1xVDFQMl9sLVhycUxmRV9R?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNVdPREZ0UjJkM1NtZG5NaTB3VFJDZkF4ampCU2dLTWdZTk1ZNHVzUWM=-w400-h224-p-df-rw',
+      source: 'BBC',
+      datetime: '2025-07-31T02:49:49.000Z',
+      time: 'Yesterday',
+      articleType: 'regular'
+    },
+    {
+      title: "Trump's Brazil tariffs are more about political revenge: analysis",
+      link: 'https://news.google.com/read/CBMiWkFVX3lxTE9KSnJ0LVRYcDlaRWpmZUl6aEhFOGVUTGM1ZHFPY08yaDI4aHRNSjNkNm5XcVZQekpQZUloNzl0UE5JUWFqLXJYeFNwc3gtN0ZhZGhHMksyend3UdIBX0FVX3lxTFAzM0ZnVjRtbmtYYVNub0JuSFZoeTZ2Rzk4VU9CWjYtVWhPN3BKR1pEZzNsVnE3Y0RpNG5HY3FkaXBwcGxxckZxWXl2M1g5bVItRHB4WkxJdDJUYnBNN2hn?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNUlZMTlOTFZNNFNHTmtVMDgxVFJDZkF4ampCU2dLTWdZUkE2QktFUXM=-w400-h224-p-df-rw',
+      source: 'BBC',
+      datetime: '2025-07-31T01:22:41.000Z',
+      time: 'Yesterday',
+      articleType: 'regular'
+    },
+    {
+      title: 'US economy grows faster than expected as Trump announces 25% tariffs on India – as it happened',
+      link: 'https://news.google.com/read/CBMi5gFBVV95cUxQVTc0TU5mVzZERFVWeG90RE1lanVnZmJuMUdhcDNOTlAtQ3d3a0hBem02S18yUVo5ZlpWQXNuRU1ZeDU1ai1jY0FaU2VIWml4cjFDZ09QRGZrUjZJdTVUMlBQZ05CNU1FSGk2R21kZldhU2VLNGRRWXp1aVVwb3Z1TnlYMzZ2QTdhWTFDX0gtVTFEdlc4Zk5ranB0M0JLWlRhWVRrMXNZS2lRTUMzdXp3MzlhWlRISHEzTjFhdWVNdVFzMmh1LU1NV3NQcThwcXpQMkc4czllU2FPekk3aWZNdlBLb2ZOZw?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNVZOMGRyYVRZMlZUWTRiWHBhVFJEMEFoalJBeWdLTWdZQllaU0dLZ2c=-w400-h224-p-df-rw',
+      source: 'The Guardian',
+      datetime: '2025-07-30T07:01:00.000Z',
+      time: '2 days ago',
+      articleType: 'regular'
+    },
+    {
+      title: "Trump sets 10% to 41% 'reciprocal' tariffs on dozens of countries' exports",
+      link: 'https://news.google.com/read/CBMiqAFBVV95cUxQd0xZMlRYdDJuaFFiVVpQcF9FRWhOY2lzNnNOcGtBQ2tqOWV2aWtEU05xN2VXbTNnd1ZUaG9aWmxoMEIwWWFYVHRHSGI0UFd0LWprX0dJS3JRRnhmQ0ZndjMteFNqTnlySUNIVEh4MlJRR2ZUQ0wzUmxoVUNZZ0VLWFgxVVNDVGxLc3VDRTN4MXYycm45Wk42ZEFqaWhIRzdIWnlibVIza1Y?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNTZRV1p0U2tsNlJuTmFSVmRrVFJERUF4aW1CU2dLTWdhQlZvd0xJZ2c=-w400-h224-p-df-rw',
+      source: 'Reuters',
+      datetime: '2025-08-01T00:19:00.000Z',
+      time: '10 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump to Swiss: Happy holidays! Now pay a 39 percent tariff.',
+      link: 'https://news.google.com/read/CBMirAFBVV95cUxQc1dZSTU5XzN6bHJBR1VSTENVTERrZkxxN0RsNFhZRjlMVG1XQU95elYybHlPTmVOUS1MaDJZVzVaZ0VWRXhEbjVncmdSZ3FaUXRTMzFxNnp1WThIb1J0NU5vN2taamJvRTBjQU1PUUFDRTltVHZpVG1mUjB1aWZjNC1KV21XLW5EODBJQnZJRFEwbUo3cWhHaGZQbGhtUmY5Vjh4N3R4U0x1OF9T?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNVpNM0o2T0hveWVFaENNbmRLVFJERUF4aW1CU2dLTWdhUk00eXJvUWM=-w400-h224-p-df-rw',
+      source: 'politico.eu',
+      datetime: '2025-08-01T09:51:45.000Z',
+      time: '50 minutes ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Switzerland Slammed With 39% Tariff Rate in US Trade Blitz',
+      link: 'https://news.google.com/read/CBMisAFBVV95cUxNRmF0MWhaRkZ6X3JDWXFfcUptVHlTNElwNF9udExuOXVmbGxTbGZERDBXSUZHcVA4UjJ4RS1uaVZkUmxSSUlyTUZ4YTd6T1Q5NjFubzNFV3lWeXJ5c3QxUV94X0dDVTNOZ3FQYk5PWV9HR1JzX2FXU0wzQmtFYU96a1dSOXNrV0tUcm1LTDFucTBJdXRoMEQwTHAwQVVycnQ5T0pyM1k2SkpBLUQxUWtyZw?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNDFSbFJUYTE5YVdYUmtWakJUVFJEY0FoanNCQ2dLTWdZeEk0WndIUWM=-w400-h224-p-df-rw',
+      source: 'Bloomberg',
+      datetime: '2025-08-01T07:51:53.000Z',
+      time: '2 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: "Europe Inc wakes up to Trump's new tariff reality",
+      link: 'https://news.google.com/read/CBMimgFBVV95cUxNczJGZktWdWc0dGkwQVZwNmxITDhmU1ZNVWFiZ0hpcHcwcXVlTkN0Q1ZTaEpHbTdsYmR1NUJDMUZmenljTUR4bl94alBOYmJlM0Jyc3ZfdnQ1X1pZRTYxMVNqU28tWE9BNlE1LXZPNTNVTWZKemJWM0xWRl9haERwa0xFRVFBVjBiOWZicXY2eGpRRy01ODI0RVlR?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iI0NnNUJValJGVERGa1EyWTNZM040VFJEVEF4aVFCU2dLTWdB=-w400-h224-p-df-rw',
+      source: 'Reuters',
+      datetime: '2025-08-01T06:35:00.000Z',
+      time: '4 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Tariffs: No deal on China truce until Trump agrees, says Bessent',
+      link: 'https://news.google.com/read/CBMiWkFVX3lxTE80cmhHa0RhR1d3ZmdjR1hFdTFTMmpiTWdHa0YtRXZQQVlFU2tzOW90aW1Sa21adklQczQ5bll4cENDT3BUQkRMNE9rTVV6Z3EtWTV6ZGZVZWtjd9IBX0FVX3lxTE1HbFZ1TWh6RVA2ekJGRFNoWXR4bnc4TzdneFk5WlBKYXZ5ek9pS25lTmwzdDN4QkVYdTJ5aUpDYmo4TWdGNG9lYzZSSm5xejJ5VzJaSGtONmVsOEI0R09n?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNUNjMlE0U1dOU1RFWjNjVzl3VFJDZkF4ampCU2dLTWdZWlFKNUpuZ2s=-w400-h224-p-df-rw',
+      source: 'BBC',
+      datetime: '2025-07-30T00:37:54.000Z',
+      time: '2 days ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump tariffs live updates: US, EU rush to finalize deal as 90-day extension of China trade truce likely',
+      link: 'https://news.google.com/read/CBMi1AFBVV95cUxQaDlJYlhQUkQweXIwaUpoNEtGNk5uc1FCNGFZdFpoM0diVFNoMzktcnNsUVRuc3lPb0hsTDNJOFo3cVJhT25WeGp6WlBuUng3TmFweERGYnRzN3BGX1ViUThGOGpyQ01oQWtQcFZVT3o0aTVVQ1diZEs3REh0UHpSR1pSZ2VMTHBzb1hJX2dRMnRGb0IycURjcG9xMHpRb2gwVWRac3dlR2R0dEp2T0VpS09OTXRUYWxtcWtHRDFic2lMakJsMnFrR3NJd3NUdXhuQjVNNg?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNU9ia2hTVjNOVFJrZGpiemRhVFJEd0F4anFCQ2dLTWdZWlpJeXNyUVU=-w400-h224-p-df-rw',
+      source: 'Yahoo.co',
+      datetime: '2025-07-29T11:50:37.000Z',
+      time: '3 days ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Economy is getting worse under Trump’s leadership, Americans say in new poll on eve of his tariff D-Day',
+      link: 'https://news.google.com/read/CBMirwFBVV95cUxNbU5xVFpsUWE3dG84bmJkeTRWS0VHd01qVGJQaFExeXZVRFA0ZnplMnczV3NYSUJWNFc3SVdGUGhxZDdlVUNpREZ3UDk4QjVqSlFGdjAxRnpNT3V4RzZLLVIzcFdfOFRSS0dTRGFlOVNTU254TjNoRkVJWE12WVZtSktXa3ZvMWE0d1laWmZYa0YyTkRidkRkMGQwVGxoXy1FenBPWUtEY2poVWZSX1hZ?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNVZOakJ3VmxoSGRsVTJOVm90VFJERUF4aW1CU2dLTWdZMUlaeFFGUW8=-w400-h224-p-df-rw',
+      source: 'The Independent',
+      datetime: '2025-08-01T08:23:00.000Z',
+      time: '2 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump tariffs live updates: US-EU deal details emerge as China talks begin, Trump seeks 15%-20% world tariff',
+      link: 'https://news.google.com/read/CBMi1AFBVV95cUxOQ1V6Vk5DWHJnOUpmS0dvWXJOZFhTOXNfcDFPUVdaeng2Z2hVTzhuN2IzMmV1Z3cxek96LVRNdk9VOEx5LTlxT0M2WU9hRFdJR1FBUk54V010OVRvT2ZwU0ExYVFyT2pOSTRHX2pJZ2pSTHduUXczYzNfNXpRdlIwUlkyTHppclRWdXhXWmtqS2l4QTduQjA1ZW1Ha1kzQ3V4bW51TnRvS1B4T3FkWmpCd2NlYVgxbnNEc2FzU0dIMXlqQWM4OTZuamR5ZFl1QzZ3U3d4Ng?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: '',
+      source: 'Yahoo.co',
+      datetime: '2025-07-28T18:32:42.000Z',
+      time: '4 days ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Who has a deal, who doesn’t? The state of play on eve of Trump’s tariffs',
+      link: 'https://news.google.com/read/CBMisgFBVV95cUxObU9mNTNjNkNQWGJpTTRMZDVoR1JjdkhJLVM4WnJXM2FuckJUb2JTbTR4MnZXcjNZRlFMWFJRMTVuTnRYQzlNU1Zvc2NDYVl6LXJ2QVc4VWU5b0ZGb3pTaEltcjdvOHU2ckhWUld0cEphRjl3eER1NHR0ZkViVTVjQmZ3TVA4Y0tvT2hqcEdzVjEzd0tnZlgxTXg5dWVmM0lPZFRwWkYyUHVkMFh1Ti1sY21R0gG3AUFVX3lxTE5xa1Vod1FuUFg2N2FzNzM5cC1mMEVJeFZJa29MTThoVnJVS2VzZVNXSTZkWVVaZUl1SVY3QjVZbGg0eEFFLThVbEJ1aEVFSGM0YUc0QkpCcl8tdElrSlZmbmpMdUYzV01rSW5ON3VySVNzUFcwTVhsNGhEMGtXSUYwUVIwYVI4MTVxVjNwZzdwQ1JOTWVxTjhENHo5aWstQkRfbjV4dkUwUTFEdXFSX3Nwc0E3WFg1SQ?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNXlTRmR3VW1KblJFNUJVMGxPVFJDUkF4ajhCU2dLTWdhTk9KcW1uZ2s=-w400-h224-p-df-rw',
+      source: 'Al Jazeera',
+      datetime: '2025-07-31T10:25:18.000Z',
+      time: 'Yesterday',
+      articleType: 'regular'
+    },
+    {
+      title: 'EU and US agree trade deal, with 15% tariffs for European exports to America',
+      link: 'https://news.google.com/read/CBMiWkFVX3lxTE9ReUVyQlhFdXdBSTNvTll2V210SF9SLVJpX3BzNkZJQVlIU2dxRW9UTmZBNmZheGEzd1JOZ3hDR01ycnNjbHF2QXA5YVRFVnZrZnFyZGFINjNXQdIBX0FVX3lxTE1DZ1AzRjdUdW5oRjBVUnFSQ2JQRHpIQ1hzZ2RGeE5iVTdjUEVtSzR2c0JsV3RoR1I3bE9GOGJCbUtfTXBhYjBZRWdvemo3c2ZCYlBFRWRMWHFtS0tScGtN?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iL0NnNHpSVVZPWDNSUVFuTnRVM2hIVFJDZkF4ampCU2dLTWdrTlFvekdHbW85YUFJ=-w400-h224-p-df-rw',
+      source: 'BBC',
+      datetime: '2025-07-27T23:39:11.000Z',
+      time: '4 days ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump tariffs live updates: No tariff pause announced after US-China talks; Trump plans 20–25% India tariffs',
+      link: 'https://news.google.com/read/CBMi0gFBVV95cUxPVEhWSkxGeUV4QWZtbm5GQmU4QzVIQndraUdJZjdZcnVXY3BxcGVUNlQtUnRHaS1mcFFuaEtZc0pnMGtiLVI0d1h5UGQ0UU9STk0tQXNwdW1fb1NPZmdnbHVORlRIUGRLYmNRQUNTSEdMMG51MVNSbVNCZV81bkRBRTRYQS1fR1p5TXBPc29zdVpwLS11Skl6NS1ieFVOQVZ0R1lrMWRFc2tHN3docVdNbS1CdktKRDYxMnZGTU1uM0FhcVpfSWR6LU9IZ3NVd2FVZmc?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: '',
+      source: 'Yahoo.co',
+      datetime: '2025-07-30T08:49:25.000Z',
+      time: '2 days ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump Embraces Economic Coercion With Tariffs as His Big Stick',
+      link: 'https://news.google.com/read/CBMiswFBVV95cUxOS2RZV25PbmZPNGdwMWRqUF9JWHNuRjlLaU9weEpJRFUwUGgycTBPSmh3M2lIejBjSXNPMXE1SEtWcUFVZUU5UVJra2pnaFpFUVRyYko0c2JQZEowWWVXT3cxLVVlam5JZkpNRXRXTGtUOXN5dmpMakJTbFJHNGV0bkUwa243MWNjaUNORU1tcm5QU0RQUk0tMVF0Y3haU1ktSXJhSHl1dE1mVUdGSzMyVmRQYw?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNVJVbG93YWpWNlRVeFlWMFpKVFJEb0FoaUFCU2dLTWdhTllZeTJyQWM=-w400-h224-p-df-rw',
+      source: 'Bloomberg',
+      datetime: '2025-08-01T07:28:21.000Z',
+      time: '3 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'BMW says industry reaction to Trump tariffs is ‘way exaggerated’',
+      link: 'https://news.google.com/read/CBMicEFVX3lxTFBZdEtuZVk1UG9YTERWVUxVRDN0VG5NZHJoSE5rODJvMHlfaTg5MHJYYmdpcUc4ckkwTE1QY3NBYU5XdndmWFU4YU9ObWhMcnhNTE44RzA1aTFwbzI3RTRDZTVWNkpTR1NGZ0RITDNoZi0?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNVZTMUZMUWpoTWFXbE9jMUp0VFJDS0F4aThCU2dLTWdZQmdJenhOQVk=-w400-h224-p-df-rw',
+      source: 'Financial Times',
+      datetime: '2025-07-31T09:53:38.000Z',
+      time: 'Yesterday',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump tariffs: US president unveils slew of new rates in latest trade war salvo',
+      link: 'https://news.google.com/read/CBMiuAFBVV95cUxPaGNWREJabG90R2tkR3VxNGhLRVVUaS14SDhHZHk3bXp3MGpYeUtGWTZGZmhCdmRuQXRlaUxhNEJYVjFjNmxmMHlJZnNQU0R1Mi1oaEIyMThodFBSbnlDOVFnUmlXTDB2WG03Q0hZNWhvZTM1Vm9vcURXdjlBREZTd1lGQWpPckNQN2NWcGM1Wm9lMTFFM0Zzd3JzOUhfS2xjdmt1QWVTQ3RWeTZWWTdZemdWVVM0VmRN?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNUdSR0pNV0VVMFVGcEtjakJmVFJEaEFSamhBU2dCTWdhbGNvd3hNUVk=-w400-h224-p-df-rw',
+      source: 'The Irish Times',
+      datetime: '2025-08-01T07:12:12.000Z',
+      time: '3 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump tariffs live updates: US and EU rush to finalize deal, 90-day extension of China trade truce likely',
+      link: 'https://news.google.com/read/CBMiywFBVV95cUxQRHNMUUVfLWhJWGR1R2RBMXhud09Qd2tnbklkVFNaNzUzUUhNUXdIYnYwcDU0b2hXSVJkWmgtY1o4OUR2S1V1cnRSeno4UDl2d3Q4cmJWZVVyT0hBNFlvc3hpQUFpOGxLQW1XamlYeFdHZE5ZOUh6bTV2MnQzRkNaUXpCR1ByM2xBLWpFTGRhQVBoMFBpNkNSUmhBWmxCVld5dlAwa2d2anc5UkRMMVNIMllGWUxfaXc4bjdwdXhYcm5FRk90bnpWc0tWaw?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNU9ia2hTVjNOVFJrZGpiemRhVFJEd0F4anFCQ2dLTWdZWlpJeXNyUVU=-w400-h224-p-df-rw',
+      source: 'Yahoo.co',
+      datetime: '2025-07-29T15:27:18.000Z',
+      time: '3 days ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump news at a glance: president unleashes slew of new tariff rates for trading partners',
+      link: 'https://news.google.com/read/CBMi9AFBVV95cUxNVC1JOVFGQ3NxQ1JfSDhLRl9GdVg5cnpUZ3MzdmdSUmF2NlY4VEhBQWplUVRRWEgzWlFRYjItN2locE8wSzM5Qml4dWlremJnUFFYNGpfY2VfOEFwQ1lTc2pyZjJUbmpKa2s2dFp5YmplWHJFaUo2UG04NlZ1X2FGYjQxUVgtai01MmRrSlFKeHNTM2xRZ0lzdFJPZ3A3VzRhajlOVm9SQTZ2VFZqWE8zN3VrT0dVYWVhMUxLRHFERmp2X1R0dmxMbWh0d0g2RTNGT0VXOXpfMkpJQ0RMTXFrUXY2bkVYWmhNWkFPTG5sSkpWVnF6?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNTFSVlpRUkdOUGNUZzRZa2RLVFJEMEFoalJBeWdLTWdZeEZZNnZFUXM=-w400-h224-p-df-rw',
+      source: 'The Guardian',
+      datetime: '2025-08-01T01:35:00.000Z',
+      time: '9 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump Raises Tariffs on Canada to 35%, Keeps USMCA Exemption',
+      link: 'https://news.google.com/read/CBMiswFBVV95cUxQNE1zN3VUVWMwNHlXcHBXYkZiWmh5ZktrQzZacm9rOHhOaEhsaDlrcE1QVmc0amJlU2pzcVY5ZTNNSUxHdVcxRUdnU3JwQWY1c2xHVWhvV3dZNmtlYUF5RGprNXF4YS1qYUZBVkx0angzUHR1U3JTNGhHeEk1UjE0WER2OG42REZYdGd3NlpJdURqRjlrMjk4NS1WV1JpaTdWQzRTNkhPZTBiRHlMT1Q2NzE1dw?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iJ0NnNXdUV0pSVFhGUExVSlpURlI1VFJERUF4aW5CU2dLTWdNQm9BSQ=-w400-h224-p-df-rw',
+      source: 'Bloomberg',
+      datetime: '2025-08-01T06:43:00.000Z',
+      time: '3 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'US tariffs on EU wine and spirits set at 15% from August 1, says Brussels',
+      link: 'https://news.google.com/read/CBMicEFVX3lxTE1YTGZmbnVGb1BCeVlCWmRfdWk3OGVBTG8wQ2N5QlpYRGlHdnhJaUFzS3JNcGZIM3BFYnc0Smc2al9VT3E2d2RCbkxLOTFqT2I3Q2dDT0NhczN3UURTOHBJTnh0dHFaNFVhQ0paRU9wUTE?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNUhTemhsVlU4eWJtSmlWMGczVFJDS0F4aThCU2dLTWdZQlVJeWhKQVU=-w400-h224-p-df-rw',
+      source: 'Financial Times',
+      datetime: '2025-07-31T10:59:00.000Z',
+      time: '23 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: "Ford says it expects Trump's tariffs to set it back $2 billion and hand Japanese automakers a 'meaningful' edge",
+      link: 'https://news.google.com/read/CBMinAFBVV95cUxNS1ZFTzJWcVVWOTJaWTdNZkhna0xld20zT2UtaVRfM1RFR19uNGNYbC0tMURORE5fYmZkYzdtWC1OVWEyd2MyOVRCLUctazZXMFMzNzZLaThia2xfVm5MbUJMbDV2bzJQVFhPNVBEYlU1VEIwVEhnX091Z0N1UllzTWxtRWZmVnJ0aEpyZkdwLTNwMU8zUVRtVEtXYXI?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNU5aM0pGYmpJM1IzSXpPREpNVFJERUF4aW1CU2dLTWdhbE5vWUxIZ2s=-w400-h224-p-df-rw',
+      source: 'Business Insider',
+      datetime: '2025-08-01T04:00:00.000Z',
+      time: '6 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump tariffs hit dozens of countries: Which are the most and least affected? Check if India makes it to',
+      link: 'https://news.google.com/read/CBMisgJBVV95cUxPZ1J5UWZWWWNjanduOFQtb0M0bDUtM1JaU1h2M1ItN2VOYTZoR184STBoQVRWaUNhQm15V0NvR2JiTEZkTEN5bGRmM3lYRGdsTGNiNlhmOWVqZGZaaHNmQzRrWkpacGpQeHR4enhzd3ZIbXBCSl9KS2JhNFRxcTFqdGJJMm9TQllCZmRtWW9uWmRqQ2t4TVdwMHpUaldaaGt4eFkzQ0tiMnBhZ2UwXzNZTG1USUVBbHFDZm92SjRGYkpqR2Z3RGxLdFpWLVBQaFpEWUp6QkdkcDhzenRqMF9XRTdUUTZfcUtrUHlBal8za3JPeXZUdVdwclFsZnJ0OGwyc2k5d054dGRiX2Fyd2IweUJZUzIyMUJ1T2dscG1Yd1VmTFBWTVluUVQzbnpFV0FtTUHSAbcCQVVfeXFMT2NyRW5fRzZQMDZ4cU9BNWpadnpRcXBQM25mQnVWck9XQWJLVkpBbExuVlNQSVVSMGgtMG9pX2wyTGdWSHRUS245NVg2b2VuWGg2U0lEOGZsYmhUdVdGS2YxcFRPUXJzTGgwWEFnTl9pUjFzT205TE5sbW1ZeFE4WmxfMzRFdEN2V1RDMjRyT3NEMUtVMHlFaTFMaHk1WERWajYtUzhOZ1c1czlMMFJLVVN4enNJWlU1UTlWeDltVXpGaDFBcDRYRzUxWHdBdkM3RlhqMDRCWEtGNkFQWDRreVptb04teHU0cm1zR29OTG9rS3Y3YS1rU2RnMVRfTmN4RXJJYVJsaVFXU0xKdFhCSXN6OVpyWDVuNVQ3bWhPTEhnTFZKQWJreVBMcFdydHZXTzRnQUZ0dk0?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iI0NnNHlOVkUyUzBKT2VTMXlVVXBsVFJDZkF4ampCU2dLTWdB=-w400-h224-p-df-rw',
+      source: 'Times of India',
+      datetime: '2025-08-01T05:17:00.000Z',
+      time: '5 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump Order Pushes Tariffs Start Date To August 7—Here Are The Rates Set For 67 Countries And EU',
+      link: 'https://news.google.com/read/CBMi5AFBVV95cUxNMnhUMnJXa0VPdEtJTU1wTHFJd3BuRnJpR19BZkxoRjNrZVFqZ0FMdjNKalJaTTFfeUVfVWwwN2hzWVctZXpQM0paX3ljNm9hX3ptMldEOHU2RzV2N1hOSHpwYVhBcHVkVGVnU3JBdGlEanBMSXFSaGQ3VVlzRXJrMXpmbGZVSHpBZElub1lQX0hpaXg2S1NTMjUzS3cyVWxGMS1UcFlhSk9JdmN4bHNoNUd4Rmt2VzJkMVUtS3EtenVmeER0NDl1blFmb2ZHbW15cHY5b25MSkFBNDBWOVIxNThVQ0k?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iL0NnNVFaVWg2VDFKbmVTMHliM05uVFJERUF4aW5CU2dLTWdrRk1KYUdHaXBjaVFJ=-w400-h224-p-df-rw',
+      source: 'Forbes',
+      datetime: '2025-08-01T07:12:00.000Z',
+      time: '3 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump order ends global tariff exemption for low-cost goods',
+      link: 'https://news.google.com/read/CBMiWkFVX3lxTFBGeVlEQjlOMmxiMkNTQmM4M0VJUVZRSThfajBjMWpCUHZuTUZjMUpaV09vMW9kbTdDNXVPSkVySVFGcklOR1FsTlhtMGJiaDNaZy1RWU9HYklQZ9IBX0FVX3lxTFBheFpTczRPblFuRnYtcENTNTlWMmxwQy1OOEk3bFJBR2trNkhMZVFmQzFfWUljRWZMLXlwd3Q0RFFPRXllQlVIb0NtbzlRT3ZoQl9DN05xLTJIRkVCTGJV?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iJ0NnNVpRalJUZDJZME5HdFlPR050VFJDZkF4ampCU2dLTWdNSnNBZw=-w400-h224-p-df-rw',
+      source: 'BBC',
+      datetime: '2025-07-30T21:47:06.000Z',
+      time: '2 days ago',
+      articleType: 'regular'
+    },
+    {
+      title: "US appeals court scrutinizes Trump's use of tariffs as trade deadline looms",
+      link: 'https://news.google.com/read/CBMivgFBVV95cUxPUkdRRWh3OWRIRUF2c00xX0c4VEVYRTU5X1B5WVhmcXpmckxxRW1SeFkyZ1VYOE1xWUlFZm5PV3BlVlpTVmJyMlNCREhCbjNrT01DdFNfbGFRcGR4U3NFMzd6dlpTUVRrbjQ1QlcxNHk4QXN2TGtjSkpYcGdBN1BZTzMzdEFJVmZqZkZZLUxqeFNEUkxOdjE1QTJJT1FhMGdKX3JpSFY5R0ZuZnR4UlJyWlh2U0VITFpTZmEtV0ZR?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNVlWR3RHWkdnMk5FSlFWa1JCVFJERUF4aW1CU2dLTWdZMUlaeFFGUW8=-w400-h224-p-df-rw',
+      source: 'Reuters',
+      datetime: '2025-07-31T17:13:58.000Z',
+      time: '17 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'President Lula hits back as Trump tariffs threaten US-Brazil trade showdown',
+      link: 'https://news.google.com/read/CBMiggFBVV95cUxPc3ZNY1RsZTF1VWhQdmNOOVdQQk5DdUxERThMOXE5MzhzZmFyZnFmNmxBRjV5d0ZQRXRyelBZaTQyM2VRX2pJS0NhT1pEM2FaNlozdi00c21zTEtIazVsR29KbU12LW9la2NVaXdBSURDdFpwRzdLY3RPMWthN0F0MEh3?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNWFjbll6ZG5aMVR6TXhVekF6VFJDMkFoalJBeWdLTWdhWlJvZ3FKZ1k=-w400-h224-p-df-rw',
+      source: 'The Guardian',
+      datetime: '2025-07-30T19:52:00.000Z',
+      time: '2 days ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump announces new tariffs across the globe, delays deadline by seven days',
+      link: 'https://news.google.com/read/CBMiuwFBVV95cUxQU2FIbEJQMWgyMHhzNzJCRVItbDVIaDRBQmNFcXhnMVNTQWpSbzFjQjY5QkZtb29EclpDVC1zaG9XdWVhT0kyRmFXWXE2eGZaMFk4TFNVcDFWdUliTDZRZGM1ZmRqVjRFa2l0N2dsa3AyMkJiSWxRQmtBNjVNWDY3aFhFRmw0c3BSR200MjdGXzNURFQzMDNkWUh3M3VxbzAyNm5uZDAyM01EMkxjM2VtNkx4LW5UM1EyVWxz?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iI0NnNWljblZVY0VSRk1saHVWMVJZVFJDZkF4ampCU2dLTWdB=-w400-h224-p-df-rw',
+      source: 'Euronews.com',
+      datetime: '2025-08-01T06:45:53.000Z',
+      time: '3 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Tariffs Weigh on Global Stocks; Amazon Slumps: Markets Wrap',
+      link: 'https://news.google.com/read/CBMiiAFBVV95cUxPV2tGaTZhNWxzeHlCaHJwS2hOWEkwNDVlQXQ0ajNUaGdodmhEVDkxNlNvSFM0V0h3RTgyTFZZX2otNGZ5TE84VjNMRU5kb0xrU3dxa0ljUkNkS2hKazVweUUyeXpEd0NpYl9kbGtfYlh3SWNKVGUwYUdTYmhYd0c4TDI4RTJlMjZ6?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNDRURk16T0dOdVYyZDZSVTF2VFJDbUF4alhCU2dLTWdhQkFvcG1yUVk=-w400-h224-p-df-rw',
+      source: 'Yahoo Finance',
+      datetime: '2025-08-01T09:43:18.000Z',
+      time: '59 minutes ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump’s Tariffs: Where He Started, What He Threatened, Where He Ended Up',
+      link: 'https://news.google.com/read/CBMiigFBVV95cUxQZG5UT3hoUUtXekxfamNITWUtV3o3UV9HYXgwVHBLLVNUanBBVmlKOFgtWEdSUmJsenlFTDc0ZVFNSUc4VWFHeVVXbWJfQjVrWVVyY1JwdzhONllEVEJLenVaeU9kY3pQa2ptVGwzOEhNWDYwc3Q5OG1RSktaN2NUV2RKUHIzYnkxZmc?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iJ0NnNXhPVjg1WnpjMVRFVkVOelZMVFJDTkJSaldBeWdLTWdNVmRBNA=-w400-h224-p-df-rw',
+      source: 'The Wall Street Journal',
+      datetime: '2025-08-01T05:38:00.000Z',
+      time: '5 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump just revealed his new tariff plan. Here’s what you need to know',
+      link: 'https://news.google.com/read/CBMid0FVX3lxTE85Nm5tRDBkSVJ3S2hlbkc3VVJ3aFByTC0yZmtRazhnU2tLcjk1Y3Jmenc4QjJqRWZBUEVFcTMyQl82T2JjT0tQUFFTTXpXLVFoTXo0U0ZDYnNQUldXOWFzdkprUWJkeFBTa3NoTVpxdTJteVdIc3Fj0gF8QVVfeXFMUDhQcFpzcDhJZVZGTkE2MDNYS1h2QzVQN0ZRNjV0U3V3Y0RjTnNOVmdHaEZPZUFBQ0tyRHZia3VCX3pOLWFqMUNiU3R4Q0FDanFwVFFFM29wdzE3bW1yYjVobzRBUDU5dWUxWmUzYnhDcjI0anlCX2xmaHI0eA?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iMkNnNWlVVGs0V0haVWFVeDBWRXRhVFJEREF4aW9CU2dLTWdzQkVJTEhIS0ltMDFpeWdR=-w400-h224-p-df-rw',
+      source: 'CNN',
+      datetime: '2025-08-01T00:50:00.000Z',
+      time: '9 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: "Appeals court judges voice skepticism about legal basis for Trump's sweeping tariffs",
+      link: 'https://news.google.com/read/CBMiqwFBVV95cUxOX1dzNGYtdWlJeHV6aVYtWFBEd0xQMVNkRXZZRGpOOGFHTFplQjNEeFYxLW5DTWJPS3ZtNjh2U2RwUTJQMmJvRklQQXdEUEpOUW02X1k5UWJFVFRZbFptTGtLUVlQbTNRTWxKYWNQSElSSFVUWnFSNVg5YjN0WnN5c3BCcE51djQwM0xaRS15a2lYcy1EVmV6ZzNHUTZHUU01OHp4SF9JRzg0blHSAbABQVVfeXFMTTlGYWZ4UWUwa1dZZHVxMEtCeXJ1eTJEREZiakVHVjV4d011UUxaX1Y1U3c1NkVZZGVVR2ozUWNlNVJqdWVUZk16OGt4Q3RIaUw4NzNpN0tURlZqRDc5ZW53Y3dCWUpnWDk5bS1pXzJ3NHRNd2swX3BDVGp0cXBOYzhpdXlJS25jNFA0V2d0WnZBbEdwSXoyWWIwZlRsaTFmVkh4Y2QzZ21Hd0dlY1kzRkI?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iK0NnNVhkVGxuYUUweGVUbGpXVVF6VFJDZkF4ampCU2dLTWdZdEJvYk9FUXM=-w400-h224-p-df-rw',
+      source: 'ABC News',
+      datetime: '2025-07-31T21:25:51.000Z',
+      time: '13 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump modifies tariff rate for Lesotho to 15% as small country reels from tariff impacts',
+      link: 'https://news.google.com/read/CBMivgFBVV95cUxNZTg4U2lDaTd0a3loWWw4bXBfRGlud0VLcDBqN0lYSjE2bzZXYlZXbnNGSXd3MkNMVkVQWDlqZHd5VDhIZzd4UnBIdkI1SHVfcktFeTdLVU9VZWpyZXNrRzFXUlZKTzVseEhSVWNudXgxeHVXWTNfdHRHQU1ETkd5a2VtYWFtaDdOWENtZ1dhOHJhQm5SeHdSVG5RRnZmSUN1M1JwNzc3al8xRkxrZ2FCUDQzS1pFME40Wm9kVXNB?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iL0NnNVVZVjlWUkdkR05UbGhUbk5sVFJETUF4aWFCU2dLTWdrQmNKUURxLWN0TEFJ=-w400-h224-p-df-rw',
+      source: 'Reuters',
+      datetime: '2025-08-01T00:33:00.000Z',
+      time: '10 hours ago',
+      articleType: 'regular'
+    },
+    {
+      title: 'Trump’s tariffs forge ‘feeling of big betrayal’ in Canada’s manufacturing',
+      link: 'https://news.google.com/read/CBMiswFBVV95cUxPTmtsc0l0UF9hS0hrTFZmRjNUcThrLVd3VUpPeVRrOGppVGs3eTVCTVZSMEVCLXBpLVRUYmNiZ0RfdlVNTVFCeVVqeXpXUE9seWZjQkRhOHdqVmJvUm96cC1NeVFhb19pUjMtOGxuUk5kVFZzamlXWUNsendMal9kZFlseU94YjFGaFM4bXJnQWlwel9PNjdaZzhWdEN4a3E5d3Y3QlphUUpjTWx5cTZWWDlhd9IBuAFBVV95cUxPY25jdTNWeHNMWVdsUzNfckJKeUVTZGRWcE50dVQ4LXNfRlgzdm1SNFB3RlNsZ3FsUmhWY2REVkg3V2JpTzZfcDdDdFBUdE0zc0ExZ2NWTm1McVQwWVgzQzZXT3Y4YW1CTUtoMDdiTi1taF9qb25DSU9qRURRQlExb3Exa3FrOTNDTGNNX2JpendOT2RHcUFLVzFvcm5pZExUaG5VaVpKZ2V3RDhZTFBwa2JuZlZDYm1h?hl=en-GB&gl=GB&ceid=GB%3Aen',
+      image: 'https://news.google.com/api/attachments/CC8iMkNnNWtURXRSVFVoS1ZHZHlVVlphVFJEZ0F4aUFCU2dLTWd1QllwQVNOU2JnckxsZ2tn=-w400-h224-p-df-rw',
+      source: 'Al Jazeera',
+      datetime: '2025-07-30T21:32:08.000Z',
+      time: '2 days ago',
+      articleType: 'regular'
+    }
+  ]
+}
